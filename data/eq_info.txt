@@ -1,0 +1,5 @@
+#dataset: GeoCSV 2.0
+#delimiter: |
+#field_unit: unitless | ISO_8601 | degrees_north | degrees_east | kilometers | unitless | unitless | unitless | unitless | unitless | unitless | unitless | unitless
+#field_type: integer | datetime | float | float | float | string | string | string | string | string | float | string | string
+EventID|Time|Latitude|Longitude|Depth|Author|Catalog|Contributor|ContributorID|MagType|Magnitude|MagAuthor|EventLocationName
