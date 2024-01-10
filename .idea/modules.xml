@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Cosmiquake_MLR.iml" filepath="$PROJECT_DIR$/.idea/Cosmiquake_MLR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Cosmiquake_LS.iml" filepath="$PROJECT_DIR$/.idea/Cosmiquake_LS.iml" />
     </modules>
   </component>
 </project>
